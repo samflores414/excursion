@@ -9,6 +9,24 @@ color: white;
 text-align: centered;
 }
 
-.link {color: aquamarine;
+.link {color: Aquamarine;
 font-size: 16px;
+}
+
+h2 {font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+text-align: centered
+}
+
+p {font-family: Verdana;
+font-size: 21px;
+color: gray;
+}
+
+h3 {text-align: right;
+color: gray;
+font-family: Verdana;
+font-size: 21px;
 }
